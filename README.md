@@ -12,6 +12,6 @@
 
 ---
 
-• MVC2
-• JPA / Hibernate
-• MySQL
+• MVC2 <br>
+• JPA / Hibernate <br>
+• MySQL <br>
