@@ -12,9 +12,9 @@
 
 ---
 
-• Tratamento de Exceptions
-• Manipulação de Arquivos
-• Collections
+• Tratamento de Exceptions <br>
+• Manipulação de Arquivos <br>
+• Collections <br>
 
 ---
 
