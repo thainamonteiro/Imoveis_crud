@@ -12,6 +12,12 @@
 
 ---
 
+• Tratamento de Exceptions
+• Manipulação de Arquivos
+• Collections
+
+---
+
 • MVC2 <br>
 • JPA / Hibernate <br>
 • MySQL <br>
